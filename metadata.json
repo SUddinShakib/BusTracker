@@ -1,0 +1,6 @@
+{
+  "name": "BusBridge",
+  "description": "Real-time community bus tracking powered by live passenger GPS aggregation and traffic-aware ETAs.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
